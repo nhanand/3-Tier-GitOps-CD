@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: dockeruser534/frontend:f9e499a884834f4d412e143ecd0dcad55fe47338
+          image: dockeruser534/frontend:88323b9fd56056bfc5454532c6cf2617628e0163
           ports:
             - containerPort: 80
 ---
