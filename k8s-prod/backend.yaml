@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: dockeruser534/backend:59c9b57101411b3bd5d1a54ab818608369411395
+          image: dockeruser534/backend:32e56708aa6c6a7194f15cd57efe437eb4ce41c6
           ports:
             - containerPort: 5000
           env:
